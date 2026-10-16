@@ -1,0 +1,25 @@
+# Python temporary files
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# macOS files
+.DS_Store
+.AppleDouble
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter temporary files
+.jupyter/
+
+# Local environment and credentials
+.env
+.env.*
+!.env.example
+
+# IDE settings
+.vscode/
+.idea/
